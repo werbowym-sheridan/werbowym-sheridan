@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Wireless Security, Swift, and Web Development**
 
-- 👨‍💻 All of my projects are available at [www.michaelwerbowy.com](www.michaelwerbowy.com)
+- 👨‍💻 All of my projects are available at [www.michaelwerbowy.com](https://michaelwerbowy.com/)
 
 - 💬 Ask me about **Swift, Web Dev, and Pokemon Trading Cards**
 
