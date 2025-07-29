@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate 3rd year CS Student</h3>
+<h3 align="center">I do stuff sometimes</h3>
 
 - 💻 I’m currently working on [SheridanBNB](https://github.com/werbowym-sheridan/SheridanBnb)
 
-- 🌱 I’m currently learning **Wireless Security, Swift, and Web Development**
+- 🌱 I’m currently learning **Network Automation, Wireless Security, Swift, and Web Development**
 
 - 👨‍💻 All of my projects are available at [www.michaelwerbowy.com](https://michaelwerbowy.com/)
 
